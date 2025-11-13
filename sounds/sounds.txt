@@ -1,0 +1,9 @@
+sounds/
+├── message.mp3       - звук нового сообщения
+├── death.mp3         - смерть/увольнение 
+├── wrong.mp3         - ошибка
+├── freak-alert.mp3   - появление фрик-клиента
+├── boss-appear.mp3   - появление босса
+├── boss-hit.mp3      - попадание по боссу
+├── screamer.mp3      - скример
+└── victory.mp3       - победа
